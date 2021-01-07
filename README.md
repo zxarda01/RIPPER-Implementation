@@ -1,5 +1,5 @@
 ## RIPPER-Implementation 
-Thsi is my  implementation for RIPPER implementation by using package wittgenstein and python-weka-wrapper3. The main purpose is to try out the packages and make a prototype to run a sampel dataset. 
+Thsi is my  implementation for RIPPER implementation by using package wittgenstein and python-weka-wrapper3. The main purpose is to try out the packages and make a prototype to understand the usage and limitation for the packages. 
 
 ## Data 
 https://github.com/stedy/Machine-Learning-with-R-datasets
