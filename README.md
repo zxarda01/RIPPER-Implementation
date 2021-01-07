@@ -1,4 +1,4 @@
-## JRIP-Implementation 
+## RIPPER-Implementation 
 Thsi is my  implementation for RIPPER implementation by using package wittgenstein and python-weka-wrapper3. The main purpose is to try out the packages and make a prototype to run a sampel dataset. 
 
 ## Data 
